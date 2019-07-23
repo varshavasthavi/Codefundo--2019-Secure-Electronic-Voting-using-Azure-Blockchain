@@ -9,6 +9,8 @@
 
 •	Hashed details like voter ID, time, Vote , IP address and location are sent through the nodes(blocks). The blocks are chained in such a way that each block has a hash that is a function of the previous block starting from the Root Hash, and thus by induction the complete prior chain, thereby assuring immutability.
 
+![](https://github.com/varshavasthavi/Codefundo--2019-Secure-Electronic-Voting-using-Azure-Blockchain/blob/master/Blank%20Diagram%20(1).jpeg)
+
 ##	Solutions to Common Problems-
 
 •	Non-availability of Internet/Remote Areas- An application is provided which will send the hash key for each person after authenticating him based on biometrics in that area.
